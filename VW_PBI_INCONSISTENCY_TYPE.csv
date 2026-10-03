@@ -1,0 +1,44 @@
+INCONSISTENCYTYPE,NAME
+1,AGP_LiquidPenetrants=AGP_LiquidPenetrants
+1,AGP_MagneticParticleTesting=AGP_MagneticParticleTesting
+1,AGP_Radiography=AGP_Radiography
+1,FluidCode=OperFluidCode
+1,FluidSystem=FluidSystem
+1,HTraceMedium=HTraceMedium
+1,HTraceReqmt=HTraceReqmt
+1,InsulPurpose=InsulPurpose
+1,LETHALSERVICE=LETHALSERVICE
+1,NominalDiameter=NominalDiameter
+1,NominalDiameter=PipingPoint1.NominalDiameter
+1,OperFluidCode=FluidCode
+1,OperFluidCode=OperFluidCode
+1,PipeLineFROM=PipeLineFROM
+1,PipeLineTO=PipeLineTO
+1,PipingMaterialsClass=PipingMaterialsClass
+1,PipingPoint1.NominalDiameter=NominalDiameter
+1,ProcessDesign.Max.Pressure=ProcessDesign.Max.Pressure
+1,ProcessDesign.Max.Temperature=ProcessDesign.Max.Temperature
+1,ProcessDesign.Min.Pressure=ProcessDesign.Min.Pressure
+1,ProcessDesign.Min.Temperature=ProcessDesign.Min.Temperature
+1,ProcessOperating.Min.Temperature=ProcessOperating.Min.Temperature
+1,SP_CommissioningSystem=SP_CommissioningSystem
+1,ScheduleOrThickness=ScheduleOrThickness
+1,SlopeRise=SlopeRise
+1,SlopeRun=SlopeRun
+1,SourService=SourService
+1,StreamNo=StreamNo
+1,StressAnalysisReqmts=StressAnalysisReqmts
+1,StressReliefReqmt=StressReliefReqmt
+1,SupplyBy=SupplyBy
+1,TagSequenceNo=TagSequenceNo
+1,VacuumConditionPressure=VacuumConditionPressure
+1,WBSNO=WBSNO
+2,The connect point is unattached.
+3,FlowDirectionFlowDirection
+3,FlowDirectionInlineComp.FlowDirection
+3,FlowDirectionPipingPoint1.FlowDirection
+3,InlineComp.FlowDirectionFlowDirection
+3,PipingPoint1.FlowDirectionFlowDirection
+4,No applicable rules to support this relationship
+5,The connector endpoint is unattached
+6,Cannot evaluate consistency
